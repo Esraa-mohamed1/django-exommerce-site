@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/360fd6c1-d81f-4491-8c97-659eb9233d02
 
 
 
-# Django E-Commerce System (DRF Backend)
+# Django E-Commerce System
 
 This project is a web-based E-Commerce System built with Django and Django REST Framework (DRF). It provides a backend API-driven structure for building a modern online store, supporting user authentication, product management, shopping cart, and order processing via RESTful APIs.
 
