@@ -49,6 +49,3 @@ This project is a web-based E-Commerce System built with Django and Django REST 
 
 
 ## Demo Video
-
-https://github.com/user-attachments/assets/e9e7a464-8d2f-4eef-b2c0-dc6cf72e986d
-
