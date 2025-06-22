@@ -1,5 +1,8 @@
 ## Demo Video
-Uploading django project videao.mp4…
+https://github.com/user-attachments/assets/360fd6c1-d81f-4491-8c97-659eb9233d02
+
+
+
 
 
 
